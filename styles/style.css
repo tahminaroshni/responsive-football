@@ -34,6 +34,10 @@ body{
     border: none;
     padding: 10px 24px;
 }
+.banner-button:hover{
+    background-color: rgb(209, 110, 126);
+    transition: background-color 1s;
+}
 .banner-thumbnail img{
     width: 556.01px;
     height: 438px;
